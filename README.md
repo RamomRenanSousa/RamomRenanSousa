@@ -11,7 +11,7 @@ Jovem desenvolvedor paulista em busca de sua primeira oportunidade profissional 
 
 - 🔭 **Atualmente focado em:** Python para Ciência de Dados, SQL e Machine Learning.
 - 🎓 **Formação:** 
-  - Bacharelado em **Sistemas de Informação** (Cursando)— *Universidade São Judas*
+  - Cursando Bacharelado em **Sistemas de Informação**— *Universidade São Judas*
   - Tecnólogo em **Análise e Desenvolvimento de Sistemas** — *UniCesumar*
 - 💡 **Interesses:** Arquitetura de Dados, ETL/ELT, Visualização de Dados e Aprendizado de Máquina.
 
@@ -43,7 +43,7 @@ Jovem desenvolvedor paulista em busca de sua primeira oportunidade profissional 
 
 ### 📚 Formação e Certificações
 
-- 🎓 **Bacharelado em Sistemas de Informação** — *Universidade São Judas*
+- 🎓 **Cursando Bacharelado em Sistemas de Informação** — *Universidade São Judas*
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Cursando) — *UniCesumar*
 - 🤖 **Machine Learning Aplicado (60h)** — *SENAI Robert Simonsen*
 - 📊 **Fundamentos de Dados e Inteligência Artificial (40h)** *SENAI Robert Simonsen*
