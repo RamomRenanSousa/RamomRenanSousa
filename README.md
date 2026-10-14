@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou o Renan Mendes!
+# 👋 Oi! eu sou o Renan
 
 🎓 **Estudante de Sistemas de Informação** & **Graduado em Análise e Desenvolvimento de Sistemas**  
-📊 **Foco em Ciência de Dados, Engenharia de Dados & Business Intelligence**
+📊 **Mergulhado de cabeça no mundo da Ciência de Dados, Engenharia de Dados & Business Intelligence**
 
 ---
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor e analista com forte inclinação para **manipulação, modelagem e análise de dados**. Atualmente aprofundo meus conhecimentos no ecossistema de dados, explorando desde análises descritivas e dashboards até algoritmos de **Machine Learning** e arquiteturas de **Big Data**.
+Jovem desenvolvedor paulista em busca de sua primeira oportunidade profissional na área, com habilidades em **manipulação, tratamento, modelagem e análise de dados**. Atualmente aprofundo meus conhecimentos no ecossistema de dados, explorando desde análises descritivas, dashboards e até algoritmos de **Machine Learning**, e aqui eu guardo os projetos que eu mais me orgulho.
 
-- 🔭 **Atualmente focado em:** Python para Ciência de Dados, PySpark, modelagem multidimensional e Machine Learning.
+- 🔭 **Atualmente focado em:** Python para Ciência de Dados, SQL e Machine Learning.
 - 🎓 **Formação:** 
-  - Bacharelado em **Sistemas de Informação** — *Universidade São Judas*
+  - Bacharelado em **Sistemas de Informação** (Cursando)— *Universidade São Judas*
   - Tecnólogo em **Análise e Desenvolvimento de Sistemas** — *UniCesumar*
 - 💡 **Interesses:** Arquitetura de Dados, ETL/ELT, Visualização de Dados e Aprendizado de Máquina.
 
@@ -33,9 +33,7 @@ Desenvolvedor e analista com forte inclinação para **manipulação, modelagem 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-#### ⚡ Big Data & Cloud (Em Aprendizado)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+ks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### 🗄️ Banco de Dados & Ferramentas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,6 +46,6 @@ Desenvolvedor e analista com forte inclinação para **manipulação, modelagem 
 ### 📚 Formação e Certificações
 
 - 🎓 **Bacharelado em Sistemas de Informação** — *Universidade São Judas*
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — *UniCesumar*
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Cursando) — *UniCesumar*
 - 🤖 **Machine Learning Aplicado (60h)** — *SENAI Robert Simonsen*
-- 📊 **Fundamentos de Dados e Inteligência Artificial (40h)**
+- 📊 **Fundamentos de Dados e Inteligência Artificial (40h)** *SENAI Robert Simonsen*
